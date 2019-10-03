@@ -30,6 +30,6 @@ See Aragon One job openings [here](https://aragon.one/#jobs).
 
 ### **Autark**
 
-Meet the Autark team [here](https://www.autark.xyz/our-story).
+Meet the Autark team [here](https://www.autark.xyz/#about).
 
 See Autark job openings [here](https://www.autark.xyz/join).
